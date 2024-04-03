@@ -33,12 +33,21 @@ $(document).ready(()=>{
   //       $(".h-c").toggleClass("head-c");
   // })
 
-  $("#btn").on("click",function(){
-       $("form").toggleClass("hide");
-  })
+  // $("#btn").on("click",function(){
+  //      $("form").toggleClass("hide");
+  // })
 
+ 
+  // $("#btn").on("click",function(event){
+  //   event.target.innerText = "No Show"
+  // })
+
+
+  // $("div").on("click",function(event){
+  //    $("div").css("height","100px").css("border","1px solid black")
+  // })
   
-
+  $('.single-item').slick();
   
 });
  
