@@ -1,0 +1,48 @@
+#mouse{
+    height: 100px;
+    width: 100px;
+    border: 1px solid #000;
+}
+
+.h-c{
+    color: rgb(55, 184, 23); 
+ }
+
+.head-c{
+    left: 40%;
+    position: absolute;
+    color: rgb(25, 19, 189);
+}
+
+.h-c{
+    color: RED; 
+ }
+
+/* #head-id{
+    left: 40%;
+    position: absolute;
+     color: blueviolet;
+} */
+
+/* #h-id{
+   color: aqua; 
+} */
+
+form{
+    margin-top: 300px;
+  
+}
+
+
+form>input{
+
+    display: block;
+}
+
+.hide{
+    display: none;
+}
+
+.visible{
+    display: block;
+}
