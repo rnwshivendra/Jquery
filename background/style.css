@@ -1,0 +1,19 @@
+#main{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    border: 1px solid #000;
+}
+
+
+#main>div{
+    border: 1px solid #000;
+    height:100%;
+    width: 100%;
+    position: absolute;
+}
+
+#container{
+    right: 10px;
+}
+

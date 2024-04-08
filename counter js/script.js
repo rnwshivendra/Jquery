@@ -1,0 +1,5 @@
+
+
+$("#counter").counter({
+  autoStart:true
+  });

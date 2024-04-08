@@ -1,0 +1,21 @@
+body{
+   
+    margin: 40px;
+}
+
+div{
+    border: 1px solid #000;
+}
+
+.slick-next{
+    background-color: red
+    
+}
+
+.slick-arrow{
+    color: rebeccapurple;
+}
+
+.slick-prev{
+    background-color: black;
+}

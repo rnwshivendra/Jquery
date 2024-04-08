@@ -1,0 +1,16 @@
+body{
+    margin: 100px;
+    border: 1px solid #e21313;
+}
+
+.swiper {
+    width: auto;
+    height: auto;
+    padding: 30px;
+  }
+
+.swiper-slide{
+    border: 1px solid #000;
+    margin: 40px;
+}
+
